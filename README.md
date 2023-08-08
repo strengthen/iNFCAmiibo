@@ -6,8 +6,6 @@
 ## 非中国大陆区Amiibo数据订阅
 > [https://raw.githubusercontent.com/strengthen/iNFCAmiibo/main/amiibo.infc](https://raw.githubusercontent.com/strengthen/iNFCAmiibo/main/amiibo.infc)
 
-## Telegram交流群
-> [https://t.me/iTelevisions](https://t.me/iTelevisions)
 ## 关注Telegram频道，获取最新通知
 > [https://t.me/iTelecast](https://t.me/iTelecast)
 
