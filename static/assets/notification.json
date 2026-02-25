@@ -1,0 +1,9 @@
+{
+	"notifications" : [
+		{
+			"title": "08/12/2025",
+			"message": "Add Kirby Air Riders and Sylux",
+			"type": "success"
+		}
+	]
+}
